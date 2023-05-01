@@ -1,0 +1,177 @@
+body{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+#submit{
+    box-shadow: 2px 2px 2px 2px rgba(17, 17, 26, 0.18);
+    background-color: rgb(157, 224, 232);
+    border: 2px double;
+    border-color: rgb(184, 161, 160);
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#submit:hover{
+    background-color: white;
+    border: 2px double;
+    transition: 0.5s;
+    cursor: pointer;
+}
+.results{
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+#firstWeakness{
+    margin-left: 20px;
+    border-right: solid black;
+    border-top: solid black;
+    border-bottom: solid black;
+    border-left: solid blue;
+    transform: skew(-20deg);
+    width: 50%;
+    padding: 1.5px;
+    border-width: 2px;
+}
+#firstRest{
+    margin-left: 20px;
+    border-right: solid black;
+    border-top: solid black;
+    border-bottom: solid black;
+    border-left: solid blue;
+    border-width: 100% 100% 100% 200%;
+    transform: skew(-20deg);
+    width: 50%;
+    padding: 1.5px;
+    border-width: 2px;
+}
+#secondWeakness{
+    margin-left: 20px;
+    border-right: solid black;
+    border-top: solid black;
+    border-bottom: solid black;
+    border-left: solid blue;
+    border-width: 100% 100% 100% 200%;
+    transform: skew(-20deg);
+    width: 50%;
+    padding: 1.5px;
+    border-width: 2px;
+}
+#secondRest{
+    margin-left: 20px;
+    border-right: solid black;
+    border-top: solid black;
+    border-bottom: solid black;
+    border-left: solid blue;
+    border-width: 100% 100% 100% 200%;
+    transform: skew(-20deg);
+    width: 50%;
+    padding: 1.5px;
+    border-width: 2px;
+}
+#firstStrength{
+    margin-left: 20px;
+    border-right: solid black;
+    border-top: solid black;
+    border-bottom: solid black;
+    border-left: solid blue;
+    border-width: 100% 100% 100% 200%;
+    transform: skew(-20deg);
+    width: 50%;
+    padding: 1.5px;
+    border-width: 2px;
+}
+#thirdRest{
+    margin-left: 20px;
+    border-right: solid black;
+    border-top: solid black;
+    border-bottom: solid black;
+    border-left: solid blue;
+    border-width: 100% 100% 100% 200%;
+    transform: skew(-20deg);
+    width: 50%;
+    padding: 1.5px;
+    border-width: 2px;
+}
+#thirdWeakness{
+    margin-left: 20px;
+    border-right: solid black;
+    border-top: solid black;
+    border-bottom: solid black;
+    border-left: solid blue;
+    border-width: 100% 100% 100% 200%;
+    transform: skew(-20deg);
+    width: 50%;
+    padding: 1.5px;
+    border-width: 2px;
+}
+#fourthRest{
+    margin-left: 20px;
+    border-right: solid black;
+    border-top: solid black;
+    border-bottom: solid black;
+    border-left: solid blue;
+    border-width: 100% 100% 100% 200%;
+    transform: skew(-20deg);
+    width: 50%;
+    padding: 1.5px;
+    border-width: 2px;
+}
+#secondStrength{
+    margin-left: 20px;
+    border-right: solid black;
+    border-top: solid black;
+    border-bottom: solid black;
+    border-left: solid blue;
+    border-width: 100% 100% 100% 200%;
+    transform: skew(-20deg);
+    width: 50%;
+    padding: 1.5px;
+    border-width: 2px;
+}
+#cooldown{
+    margin-left: 20px;
+    border-right: solid black;
+    border-top: solid black;
+    border-bottom: solid black;
+    border-left: solid blue;
+    border-width: 100% 100% 100% 200%;
+    transform: skew(-20deg);
+    width: 50%;
+    padding: 1.5px;
+    border-width: 2px;
+}
+#howManyTimes{
+    margin-left: 20px;
+    border-right: solid black;
+    border-top: solid black;
+    border-bottom: solid black;
+    border-left: solid blue;
+    border-width: 100% 100% 100% 200%;
+    transform: skew(-20deg);
+    width: 50%;
+    padding: 1.5px;
+    border-width: 2px;
+}
+#workout-complete{
+    margin-left: 20px;
+    border-right: solid black;
+    border-top: solid black;
+    border-bottom: solid black;
+    border-left: solid blue;
+    border-width: 100% 100% 100% 200%;
+    transform: skew(-20deg);
+    width: 50%;
+    padding: 1.5px;
+    border-width: 2px;
+    font-size: 20px;
+}
+.start-text{
+    margin-left: 20px;
+    font-size: 20px;
+}
+.workouts{
+    margin-top: -10px;
+}

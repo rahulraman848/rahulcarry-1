@@ -1,0 +1,40 @@
+h1{
+    position: absolute;
+    top: 40%;
+    left: 45%;
+    transform: translate(-50%, -50%);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+#get-started{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 2px 2px 2px 2px rgba(17, 17, 26, 0.18);
+    background-color: rgb(157, 224, 232);
+    border: 2px double;
+    border-color: rgb(184, 161, 160);
+    padding: 20px;
+    border-radius: 40px;
+}
+#get-started:hover{
+    background-color: white;
+    border: 2px double;
+    transition: 0.5s;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.equipment{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+#logo{
+    position: absolute;
+    top: 29%;
+    left: 56%;
+}
